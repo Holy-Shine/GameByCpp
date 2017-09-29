@@ -1,2 +1,3 @@
 # cplusplusGame
-same little game with c++
+some little game with c++
+
